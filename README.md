@@ -1,11 +1,3 @@
----
-
-🦅 **c4r4nch0** 🦅
-
-🔒 **Security Enthusiast** | 🤖 **Automation Geek** | 📊 **Data & Analytics Maverick**
-
----
-
 👨‍💻 **About Me**
 
 - 🛡️ Specializing in **Cybersecurity** and **Ethical Hacking**
