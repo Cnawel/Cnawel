@@ -1,5 +1,3 @@
-Certainly, let's craft a captivating GitHub bio that incorporates elements of security, automation, data handling & analytics, along with some ASCII art for that hacker vibe.
-
 ---
 
 🦅 **c4r4nch0** 🦅
