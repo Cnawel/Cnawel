@@ -9,7 +9,7 @@
 ---
 
 🔗 ** Have an idea or proyect ? Connect with Me**
-
+- 📚 Blog: https://cnawel.github.io/caranchonest
 - 🐦 Twitter: [@c4r4nch0](https://twitter.com/c4r4nch0)
 - 📧 Email: c4r4nch0@email.com
 
