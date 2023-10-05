@@ -16,16 +16,7 @@
 
 ---
 
-🛠️ **Skills**
-
-- **Languages**: Python, JavaScript, Go
-- **Frameworks**: Django, React, TensorFlow
-- **Tools**: Docker, Kubernetes, AWS
-- **Security**: SAST, DAST, Secret Scanning, MFA
-
----
-
-🔗 **Connect with Me**
+🔗 ** Have an idea or proyect ? Connect with Me**
 
 - 🐦 Twitter: [@c4r4nch0](https://twitter.com/c4r4nch0)
 - 📧 Email: c4r4nch0@email.com
