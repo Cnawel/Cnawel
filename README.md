@@ -1,6 +1,6 @@
 👨‍💻 **About Me**
 
-- 🛡️ Specializing in **Cybersecurity** and **Ethical Hacking**
+- 🛡️ Specializing in **Cybersecurity** and **Ethical Humanism**
 - 🤖 Passionate about **Automation** and **DevOps**
 - 📊 Adept in **Data Handling & Analytics**, turning data into actionable insights
 - 🌐 Open Source Contributor and Community Advocate
