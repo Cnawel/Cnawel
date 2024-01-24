@@ -8,7 +8,7 @@
 ---
 
 🔗 Always searching for projects and ideas to get involved.
- **Contact me:**  
+**Contact me:**  
 - 📚 Blog: [c4r4nch0 Nest](https://cnawel.github.io/caranchonest)
 - 🐦 Twitter: [@c4r4nch0](https://twitter.com/c4r4nch0)
 - 📧 Email: c4r4nch0@email.com
